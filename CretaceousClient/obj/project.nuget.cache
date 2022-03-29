@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6bN3GmTH8MQH61kibU8WqVUyMrNDM7pS4khCpK7DwkyNMNJRy/hyT1gnzb0eUBM1Pb58/nxDEA6OiW/gMcUAQ==",
+  "success": true,
+  "projectFilePath": "/Users/jacobhaley/Desktop/Epicodus/scrap/CretaceousClient.Solution/CretaceousClient/CretaceousClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/jacobhaley/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/jacobhaley/.nuget/packages/restsharp/106.6.10/restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
